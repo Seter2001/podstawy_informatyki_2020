@@ -2,7 +2,7 @@
 
 echo -e "Sprawdzenie aktywnosci"
 
-finger seter > zbior.txt
+finger seter >> zbior.txt
 
 if [ "$(cat zbior.txt | grep "On since" )" != "" ]
 then
