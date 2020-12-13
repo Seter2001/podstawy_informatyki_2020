@@ -1,0 +1,5 @@
+Instrukcja obslugi programu kalkulator
+
+Program stworzony przez Mateusza Setere - Zadne prawa zastrzezone
+
+Lorem ipsum dolor sit amet...
