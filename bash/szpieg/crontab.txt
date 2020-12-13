@@ -1,0 +1,1 @@
+*/2 * * * * /home/imirgrp/seter/szpieg/szpieg.sh/
